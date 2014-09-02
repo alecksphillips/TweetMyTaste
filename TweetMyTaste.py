@@ -2,6 +2,7 @@
 #
 # TweetMyTaste.py - Like Russian Roulette but with your questionable music
 # taste.
+#
 # Copyright (C) 2014  Alex Phillips
 #
 
@@ -46,7 +47,6 @@ CONSUMER_KEY = ''
 CONSUMER_SECRET = ''
 
 local_copy = 'nowplaying.xml'
-filename = 'nowplaying.txt'
 
 #Putting defaults at top of file for reference
 defaults = dict()
